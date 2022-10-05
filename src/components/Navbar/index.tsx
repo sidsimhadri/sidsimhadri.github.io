@@ -9,7 +9,7 @@ const Navbar = () => {
     <>
       <Nav>
         <NavLink to={location.pathname}>
-          <h1 style={{width:'200px'}}>
+          <h1 style={{ width: "200px" }}>
             <TypeWriterEffect
               text={location.pathname}
               typeSpeed={100}

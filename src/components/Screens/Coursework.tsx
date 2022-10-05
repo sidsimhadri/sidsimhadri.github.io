@@ -9,7 +9,7 @@ function Coursework() {
     <div style={Screens}>
       <Navbar />
       <Grid container spacing={0} justifyContent={"center"}>
-        <Grid paddingLeft={"10px"} textAlign={'center'}>
+        <Grid paddingLeft={"10px"} textAlign={"center"}>
           <Box>
             <Box
               padding={"10px"}
@@ -57,7 +57,7 @@ function Coursework() {
             </Box>
           </Box>
         </Grid>
-        <Grid textAlign={'center'}>
+        <Grid textAlign={"center"}>
           <Box>
             <Box
               padding={"10px"}
