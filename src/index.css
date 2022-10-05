@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+    background-color: black;
+    height: 100vh;
+  font-family:Glass, courier, courier new, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #f0fff8; /* almost white */
+  text-shadow: 0 0 3px #80ffc0, 0 0 10px #00ff66, 0 0 20px #00ff66, 0 0 30px #00ff66;
+}
+
+
+@font-face {
+  font-family: "Glass";
+  src: local("Glass"),
+   url("./assets/fonts/Glass_TTY_VT220.ttf") format("truetype");
+  font-weight: bold;
+  }
