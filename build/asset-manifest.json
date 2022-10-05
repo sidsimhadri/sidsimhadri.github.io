@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64c4f43b.css",
+    "main.js": "/static/js/main.7896883a.js",
+    "static/js/787.7e9010a4.chunk.js": "/static/js/787.7e9010a4.chunk.js",
+    "static/media/Glass_TTY_VT220.ttf": "/static/media/Glass_TTY_VT220.60f65041b7228cef8385.ttf",
+    "static/media/Sid_Simhadri_Resume-new.pdf": "/static/media/Sid_Simhadri_Resume-new.1ffa45538c494739dc08.pdf",
+    "index.html": "/index.html",
+    "main.64c4f43b.css.map": "/static/css/main.64c4f43b.css.map",
+    "main.7896883a.js.map": "/static/js/main.7896883a.js.map",
+    "787.7e9010a4.chunk.js.map": "/static/js/787.7e9010a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64c4f43b.css",
+    "static/js/main.7896883a.js"
+  ]
+}
