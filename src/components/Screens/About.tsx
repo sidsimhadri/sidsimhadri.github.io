@@ -12,8 +12,7 @@ function About() {
         sx={{
           border: 1,
         }}
-        alignSelf={"center"}
-        justifySelf={"center"}
+        margin={'auto'}
         fontSize={"30px"}
         textAlign={"center"}
         width={"60%"}

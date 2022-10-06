@@ -8,13 +8,18 @@ function Contact() {
   return (
     <div style={Screens}>
       <Navbar />
-      <Grid justifyContent={"center"}>
-        <Box fontSize={"50px"} justifySelf="center">
+      <Grid
+        container
+        direction={"column"}
+        alignItems={"center"}
+        textAlign={'center'}
+      >
+        <Box fontSize={"50px"} padding={'50px'}>
           <a href={resume} download="Resume">
             Download
           </a>
-          <Box>Email: simhadri.s@northeastern.edu</Box>
-          <Box>Phone: (425)499-6989</Box>
+          <Box padding={'50px'}>Email: simhadri.s@northeastern.edu</Box>
+          <Box padding={'50px'}>Phone: (425)499-6989</Box>
         </Box>
       </Grid>
     </div>
