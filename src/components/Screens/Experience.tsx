@@ -9,7 +9,7 @@ function Experience() {
       <Navbar />
       <div style={{ position: "absolute", top: "100px", left: "30px" }}>
         <Box style={{ fontSize: "35px" }}>
-          Backend Developer Co-op -- Tyler Technologies -- 08-12/2022
+          Full Stack Developer Co-op -- Tyler Technologies -- 08-12/2022
         </Box>
         <Box paddingLeft={"30px"} fontSize={"25px"}>
           <Box paddingTop={"10px"}>
